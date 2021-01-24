@@ -42,3 +42,4 @@ target
 
 # VS Code specific
 .code-workspace
+mangle_vscode.code-workspace
