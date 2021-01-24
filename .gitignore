@@ -33,3 +33,12 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
+
+# other
+.coverage
+__pycache__
+env
+target
+
+# VS Code specific
+.code-workspace
